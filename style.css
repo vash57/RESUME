@@ -1,0 +1,50 @@
+body{
+    background-color:aqua;
+}
+p{
+    background-color: blueviolet;
+    
+}
+img{
+    width:120px;
+    float:right;
+    border: 10px;
+    border : 2px solid black;
+    position:relative;
+    top: -20px;
+    margin-bottom: 30px;
+}
+.Carrier{
+    background-color: darkkhaki;
+    border-radius: 5px ;
+    border-top: 2px;
+    border-bottom: 2px;
+}
+.EDUCATION,.Skills,.Details,.Decl,.cl{
+    background-color: darkkhaki;
+    border-radius: 5px ;
+    border-top: 2px;
+    border-bottom: 2px;
+}
+.dee{
+    background-color: aquamarine;
+    border-radius:5px;
+    border: 2px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    background-color:blue;
+    color: yellow;
+}
+td{border: 1px solid black;
+padding: 8px;
+text-align: left;
+}
+.som,a{
+    background-color: blue;
+    color: yellow;
+}
